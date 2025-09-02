@@ -1,6 +1,6 @@
 # Hackintosh Monterey on Lenovo ThinkPad T470s
 
-This repository contains the EFI and guide for running **macOS Monterey** on the **Lenovo ThinkPad T470s**.  
+This repository contains the EFI files for running **macOS Monterey** on the **Lenovo ThinkPad T470s**.  
 Tested and working on the following configuration:
 
 ## Hardware Specifications
